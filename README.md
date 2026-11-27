@@ -20,11 +20,10 @@
   Organizes evidence for after-sales disputes and prepares investigation reports for human review.
 </p>
 
-#### Coding Stats
-
-**175** contributions in the past year · **10** public repositories · **2** stars earned
-
-<sub>GitHub snapshot · Nov 27, 2026</sub>
+<h4 align="center">Coding Stats</h4>
+<p align="center">
+  <img src="./coding-stats.svg" width="660" alt="175 contributions in the past year, 10 public repositories, and 2 stars earned. GitHub snapshot, November 27, 2026.">
+</p>
 
 <h3 align="center">CONTRIBUTION ACTIVITY</h3>
 <p align="center">
