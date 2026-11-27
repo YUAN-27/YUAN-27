@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 150" role="img" aria-labelledby="title">
+  <title id="title">Coding Stats. 175 contributions in the past year, 10 public repositories, and 2 stars earned. November 27, 2026.</title>
+  <defs>
+    <linearGradient id="panel" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#182538"/>
+      <stop offset="1" stop-color="#101925"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#528acc" stop-opacity=".16"/>
+      <stop offset=".5" stop-color="#9ad3ff"/>
+      <stop offset="1" stop-color="#528acc" stop-opacity=".16"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-30%" width="180%" height="160%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <g id="cell">
+      <rect x=".5" y="8.5" width="207" height="103" rx="7" fill="url(#panel)" stroke="#2c425a"/>
+      <path d="M18 9h172" stroke="url(#accent)"/>
+    </g>
+  </defs>
+  <use href="#cell" x="6"/>
+  <use href="#cell" x="226"/>
+  <use href="#cell" x="446"/>
+  <g text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="44" font-weight="700">
+    <g fill="#4b9afa" opacity=".55" filter="url(#glow)" aria-hidden="true">
+      <text x="110" y="66">175</text><text x="330" y="66">10</text><text x="550" y="66">2</text>
+    </g>
+    <g fill="#c4e5ff">
+      <text x="110" y="66">175</text><text x="330" y="66">10</text><text x="550" y="66">2</text>
+    </g>
+  </g>
+  <g fill="#b8c9db" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" letter-spacing=".65">
+    <text x="110" y="92">CONTRIBUTIONS · 1 YEAR</text>
+    <text x="330" y="92">PUBLIC REPOSITORIES</text>
+    <text x="550" y="92">STARS EARNED</text>
+  </g>
+  <text x="330" y="136" fill="#a6b8cc" text-anchor="middle" font-family="Consolas, monospace" font-size="12">GitHub snapshot · Nov 27, 2026</text>
+</svg>
