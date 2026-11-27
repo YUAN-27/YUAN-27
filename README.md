@@ -1,6 +1,10 @@
 [![Winter Profile — a blue winter landscape with falling snow](./winter-profile-typing.gif)](https://yuan-27.github.io/winter-profile/)
 
-**[ENTER →](https://yuan-27.github.io/winter-profile/)**
+<p align="center">
+  <a href="https://yuan-27.github.io/winter-profile/"><strong>ENTER →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://yuan27.top/"><strong>PERSONAL SITE ↗</strong> <code>yuan27.top</code></a>
+</p>
 
 <p align="center">
   <img src="https://nixietube-ice.1249850641.workers.dev/" alt="Profile views">
