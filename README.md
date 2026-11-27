@@ -2,4 +2,6 @@
 
 **[ENTER →](https://yuan-27.github.io/winter-profile/)**
 
-![Profile views](https://nixietube-ice.1249850641.workers.dev/)
+<p align="center">
+  <img src="https://nixietube-ice.1249850641.workers.dev/" alt="Profile views">
+</p>
