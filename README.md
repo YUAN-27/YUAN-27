@@ -14,10 +14,17 @@
   <a href="https://github.com/YUAN-27/Transformer-on-Metax-V1">Python</a> · <a href="https://github.com/YUAN-27/Transformer-on-Metax-V1">PyTorch</a> · <a href="https://github.com/YUAN-27/GolangTraining">Go</a> · <a href="https://github.com/YUAN-27/winter-profile">JavaScript</a> · <a href="https://github.com/YUAN-27/winter-profile/tree/main/counter">Cloudflare Workers</a>
 </p>
 
-### SELECTED PROJECTS
+<h3 align="center">SELECTED PROJECTS</h3>
+<p align="center">
+  <strong><a href="https://github.com/YUAN-27/proof_flow">proof_flow</a></strong><br>
+  Organizes evidence for after-sales disputes and prepares investigation reports for human review.
+</p>
 
-- **[Transformer-on-Metax-V1](https://github.com/YUAN-27/Transformer-on-Metax-V1)** — A PyTorch implementation of the original encoder–decoder Transformer for English–Chinese translation.
-- **[Winter Profile](https://github.com/YUAN-27/winter-profile)** — An interactive snow scene with typed dialogue, built with HTML, CSS, and JavaScript. [Open the site](https://yuan-27.github.io/winter-profile/)
+#### Coding Stats
+
+**175** contributions in the past year · **10** public repositories · **2** stars earned
+
+<sub>GitHub snapshot · Nov 27, 2026</sub>
 
 <h3 align="center">CONTRIBUTION ACTIVITY</h3>
 <p align="center">
