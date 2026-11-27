@@ -2,4 +2,4 @@
 
 **[ENTER →](https://yuan-27.github.io/winter-profile/)**
 
-![Profile views](https://count.getloli.com/@yuan-27-github-profile?theme=nixietube-1)
+![Profile views](https://nixietube-ice.1249850641.workers.dev/)
